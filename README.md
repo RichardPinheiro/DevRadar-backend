@@ -42,12 +42,6 @@ This project was developed with the following technologies:
 
 Developers Radar is a project that aims to connect developers close to you who work with the same technologies.
 
-## Layout
-
-You can download the project layout in `.sketch` format through [this link] (. Github / DevRadar.sketch).
-
-To open the file in `.sketch` format on any operating system use the tool [Figma] (https://figma.com).
-
 ## How to contribute
 
 - Fork this repository;
