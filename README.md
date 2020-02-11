@@ -47,3 +47,7 @@ Developers Radar is a project that aims to connect developers close to you who w
 - Push to your branch: `git push origin minha-feature`.
 
 After the merge of your pull request is done, you can delete your branch.
+
+## Authors
+
+* **Richard Pinheiro** - [GitHub](https://github.com/RichardPinheiro)
