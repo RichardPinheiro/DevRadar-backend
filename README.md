@@ -40,7 +40,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-DevRadar is a project that aims to connect developers close to you who work with the same technologies.
+Developers Radar is a project that aims to connect developers close to you who work with the same technologies.
 
 ## Layout
 
