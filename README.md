@@ -43,9 +43,7 @@ Developers Radar is a project that aims to connect developers close to you who w
 
 * [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
-* **and run**
-
-* `$ yarn dev`
+* **And run:** `$ yarn dev`
 
 ## How to contribute
 
