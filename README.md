@@ -41,11 +41,11 @@ Developers Radar is a project that aims to connect developers close to you who w
 
 ## 💻 To run this project
 
-[Install yarn](https://classic.yarnpkg.com/en/docs/install)
+* [Install yarn](https://classic.yarnpkg.com/en/docs/install)
 
 * **and run**
 
-`$ yarn dev`
+* `$ yarn dev`
 
 ## How to contribute
 
