@@ -1,9 +1,9 @@
 <h1 align="center">
-   Dvelopers radar Backend API
+   Dvelopers radar
 </h1>
 
 <h4 align="center">
-  Dvelopers radar
+  Dvelopers radar backend API
 </h4>
 
 <p align="center">
