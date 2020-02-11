@@ -39,6 +39,10 @@ This project was developed with the following technologies:
 
 Developers Radar is a project that aims to connect developers close to you who work with the same technologies.
 
+## 💻 To run this project
+
+$ yarn dev
+
 ## How to contribute
 
 - Fork this repository;
